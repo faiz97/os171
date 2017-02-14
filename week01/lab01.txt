@@ -20,4 +20,4 @@ drwxr-xr-x  2 maula.faiz StafCS 4096 Feb 14 14:10 week09
 drwxr-xr-x  2 maula.faiz StafCS 4096 Feb 14 14:11 week10
 drwxr-xr-x  2 maula.faiz StafCS 4096 Feb 14 14:11 xtra
 /home/fasilkom/mahasiswa/m/maula.faiz/os171/week01
-Today is 14 Feb 2017 at 15:20:02
+Today is 14 Feb 2017 at 16:50:58
