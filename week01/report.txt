@@ -1,0 +1,2 @@
+#Maula_Faiz_Adli
+We learned to clone our github repository into badak server and we also learned how to use basic command in CLI such as cd, ls, rm, mkdir. We also made a simple scripting. 
