@@ -1,0 +1,6 @@
+/home/fasilkom/mahasiswa/m/maula.faiz/.gnupg/pubring.gpg
+--------------------------------------------------------
+pub   4096R/BAD4EDF8 2017-02-20 [expires: 2017-08-19]
+uid                  Maula Faiz Adli (OS Mancay!) <maula.faiz@ui.ac.id>
+sub   4096R/9664FACA 2017-02-20 [expires: 2017-08-19]
+
