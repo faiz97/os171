@@ -2,3 +2,9 @@ w02-170220-12-PS-About: Doing lab week02
 w02-170220-13-PS-About: Continue doing lab week02
 w02-170220-13-PS-About: Continue doing lab week02
 w02-170220-14-PS-About: Continue doing lab week02
+w02-170221-10-LR-About: Listening to lectures about protection and security
+w02-170221-10-LR-About: Listening to lectures about protection and security
+w02-170221-10-LR-About: Listening to lectures about protection and security
+w02-170221-10-LR-About: Listening to lectures about protection and security
+w02-170221-12-PS-About: Correcting lab week02
+w02-170221-13-LR-About: Learning about ssh from internet 
