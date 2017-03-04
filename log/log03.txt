@@ -1,0 +1,12 @@
+w03-170228-10-LR-About: Listening to lecture about startup and booting
+w03-170228-10-LR-About: Continue listening to lecture about startup and booting
+w03-170228-11-LR-About: Continue listening to lecture about startup and booting
+w03-170228-11-LR-About: Continue listening to lecture about startup and booting
+w03-170302-10-LR-About: Listening to lecture about startup and booting
+w03-170302-10-LR-About: Continue listening to lecture about startup and booting
+w03-170302-11-LR-About: Listening to lecture about memory and pointer
+w03-170302-11-LR-About: Continue listening to lecture about memory and pointer
+w03-170304-08-PS-About: Doing lab for week03
+w03-170304-08-PS-About: Continue Doing lab for week03
+w03-170304-12-PS-About: Doing lab for week03
+w03-170304-12-PS-About: Continue Doing lab for week03
